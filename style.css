@@ -2,6 +2,7 @@ body {background-color: #313133;
   color: #ffffff;
   font-family:'Courier New', Courier, monospace;
   background-image: url(img/bg.png);
+  text-align: center;
 }
 .footer {
   background-color: #141414;
@@ -9,6 +10,9 @@ body {background-color: #313133;
   text-align: center;
   font-style: italic;
 }
-.about{
-  word-wrap: break-word;
+.navbar a {
+  color: #ffffff;
+}
+.navbar{
+  background-color: #141414;  
 }
