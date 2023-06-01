@@ -2,27 +2,15 @@ body {
   padding-left: 100px;
   padding-right: 100px;
 }
-.navbar {
-  position: fixed;
-  padding: 30px;
-  left: 0;
-  top: 0;
-  width: 100%;
-}
+
 .navbar a {
   padding: 40px;
-}
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
 }
 .myimg {
   height: 200px;
   border-radius: 50%;
 }
-article {
+section {
   padding: 100px;
   font-size: 25px;
 }
@@ -33,4 +21,17 @@ article {
 .projects img{
   width: 200px;
   height: 200px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.navbar {
+  position: fixed;
+  padding: 30px;
+  left: 0;
+  top: 0;
+  width: 100%;
 }
