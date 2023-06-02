@@ -11,7 +11,7 @@ body {
   border-radius: 50%;
 }
 section {
-  padding: 100px;
+  padding: 50px;
   font-size: 25px;
 }
 .contacts img{
@@ -34,4 +34,10 @@ section {
   left: 0;
   top: 0;
   width: 100%;
+}
+.about{
+  padding-top: 100px;
+}
+.contacts{
+  padding-bottom: 100px;
 }
